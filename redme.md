@@ -1,7 +1,4 @@
-Alright 🙂
-Here’s your **complete and professional `README.md`** for the **`gemini-ai-chat`** project in a **single, clean markdown file** — ready to use:
 
-````markdown
 # 🤖 Gemini AI Chat
 
 **Gemini AI Chat** is a **Python-based chatbot** powered by **Google's Gemini API**.  
@@ -26,7 +23,7 @@ Follow these steps to set up and run the chatbot:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/gemini-ai-chat.git
+git clone https://github.com/Ayuusssh/gemini-ai-chat.git
 cd gemini-ai-chat
 ````
 
@@ -159,10 +156,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
 📧 [Ayush Bhavsar](mailto:ayushbhavsar1402@gmail.com)
-🌐 [Your Portfolio](https://your-portfolio-link.com)
 
 <p align="center">Made with ❤️ using Python and Google Gemini API</p>
 ```
