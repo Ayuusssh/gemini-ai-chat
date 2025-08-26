@@ -156,6 +156,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 ## 👨‍💻 Author
+**Ayush Bhavsar**
 📧 [Ayush Bhavsar](mailto:ayushbhavsar1402@gmail.com)
 
 <p align="center">Made with ❤️ using Python and Google Gemini API</p>
