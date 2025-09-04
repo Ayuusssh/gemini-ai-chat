@@ -1,4 +1,3 @@
-
 # 🤖 Gemini AI Chat
 
 **Gemini AI Chat** is a **Python-based chatbot** powered by **Google's Gemini API**.  
